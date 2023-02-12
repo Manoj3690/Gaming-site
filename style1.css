@@ -1,0 +1,45 @@
+*{
+  margin:0;
+}
+ .category{
+    background-color:black;
+    color:white;
+  }
+.head{
+  background-color:grey;
+  color:white;
+  text-align:center;
+  }
+  .category{
+    background-color:black;
+    color:white;
+  }
+  .container{
+  border:2px white solid;
+  border-radius:10px;
+   }
+  .container h2{
+    margin-top:10px;
+    margin-left:10px;
+  color:#1e90ff;
+  font-style:italic;
+  }
+  ul{
+    list-style-type:none;
+  }
+  a{
+    margin-top:20px;
+    text-decoration:none;
+    color:white;
+    padding:10px;
+  }
+  button{
+  padding:5px 10px;
+  background-color:grey;
+  color:#aaf683;
+  margin-top:8px;
+  margin-bottom:10px;
+  margin-left:140px;
+  border-radius:3px;
+}
+  

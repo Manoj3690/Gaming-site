@@ -1,0 +1,33 @@
+*{
+  margin:0;
+}
+ .category{
+    background-color:grey;
+    color:white;
+  }
+.head{
+  background-color:grey;
+  color:white;
+  text-align:center;
+  }
+  body{
+    background-color:black;
+  }
+   .category{
+    background-color:black;
+    color:white;
+  }
+  .container{
+  border:2px white solid;
+  border-radius:10px;
+   }
+   .container p{
+     margin-top:8px;
+     margin-bottom:5px;
+     text-align:center;
+   }
+   .container h3{
+     margin-left:120px;
+     color:#1e90ff;
+     margin-bottom:10px;
+   }
