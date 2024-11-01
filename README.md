@@ -1,6 +1,6 @@
 # Gaming-Site
 
-Built this application using:
+Built this application using :
 * HTML 
 * CSS 
 
